@@ -60,7 +60,7 @@ It uses **Run-Length Encoding (RLE)** and applies **multithreading** to improve 
 6. Store output in files  
 
 
-# 💻 How to Run  
+# How to Run  
 
 ## Compile:
 ```bash
